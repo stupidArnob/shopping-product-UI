@@ -9,7 +9,7 @@ import Product from "./components/Product/Product";
 const App = () => {
   return (
     <div>
-      <div style={{ height: "30%" }}>
+      <div style={{ height: "10%" }}>
         <Carousel />
       </div>
       <div className="container">
